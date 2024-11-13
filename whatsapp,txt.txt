@@ -1,0 +1,10 @@
+WhatApp code
+
+Chat screen
+ system
+
+Last seen
+system.out
+
+video call
+system.out.print
